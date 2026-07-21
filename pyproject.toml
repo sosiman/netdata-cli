@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [
-    { name = "Sosi", email = "sosi@example.com" },
+    { name = "Sosi", email = "albertotplaza@gmail.com" },
 ]
 keywords = ["netdata", "cli", "monitoring", "metrics", "devops", "observability"]
 classifiers = [

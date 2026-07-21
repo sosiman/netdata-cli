@@ -1,5 +1,9 @@
 # netdata-cli
 
+[![PyPI version](https://img.shields.io/pypi/v/netdata-cli)](https://pypi.org/project/netdata-cli/)
+[![Python](https://img.shields.io/pypi/pyversions/netdata-cli)](https://pypi.org/project/netdata-cli/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A powerful CLI for the [Netdata](https://www.netdata.cloud/) Agent REST API.
 
 Query metrics, charts, alarms, functions, and agent info — all from the terminal.
