@@ -28,7 +28,7 @@ pip install netdata-cli
 Or from source:
 
 ```bash
-git clone https://github.com/sosi/netdata-cli
+git clone https://github.com/sosiman/netdata-cli
 cd netdata-cli
 pip install -e .
 ```
@@ -176,7 +176,7 @@ nd function network-interfaces
 ## Development
 
 ```bash
-git clone https://github.com/sosi/netdata-cli
+git clone https://github.com/sosiman/netdata-cli
 cd netdata-cli
 pip install -e ".[dev]"
 pytest

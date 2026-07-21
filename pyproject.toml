@@ -42,9 +42,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sosi/netdata-cli"
-Repository = "https://github.com/sosi/netdata-cli"
-Issues = "https://github.com/sosi/netdata-cli/issues"
+Homepage = "https://github.com/sosiman/netdata-cli"
+Repository = "https://github.com/sosiman/netdata-cli"
+Issues = "https://github.com/sosiman/netdata-cli/issues"
 
 [project.scripts]
 nd = "netdata_cli.cli:main"
