@@ -35,3 +35,4 @@ htmlcov/
 *.key
 config.yaml
 config.yml
+.secrets/
